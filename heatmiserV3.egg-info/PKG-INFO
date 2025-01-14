@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: heatmiserv3
-Version: 1.2.2
+Version: 1.2.3
 Summary: A library to interact with Heatmiser Themostats using V3
 Home-page: https://github.com/andylockran/heatmiserv3
 Download-URL: https://github.com/andylockran/heatmiserv3/tarball/1.2.2
